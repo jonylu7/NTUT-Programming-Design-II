@@ -1,0 +1,1 @@
+printf("f1fff%f %f %f %f %f %f\n", a1, b1, c1, a2, b2, c2);
